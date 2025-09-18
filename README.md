@@ -22,3 +22,15 @@ npm install
 
 # Run it locally
 npm run dev
+
+# Clone the repo
+git clone https://github.com/BennethA/ZippyCart.git
+
+# Navigate into it
+cd ZippyCart
+
+# Install dependencies
+npm install
+
+# Run it locally
+npm run dev
