@@ -4,8 +4,8 @@ I have created this website using React, Vite, and Tailwind CSS. It is designed 
 
 
 # 🚀 Tech Stack
-React (frontend)
-Vite (build tool)
-Tailwind CSS (styling)
-React Router (routing)
-LocalStorage (cart persistence)
+- React (frontend)
+- Vite (build tool)
+- Tailwind CSS (styling)
+- React Router (routing)
+- LocalStorage (cart persistence)
