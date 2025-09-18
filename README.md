@@ -11,23 +11,12 @@ I have created this website using React, Vite, and Tailwind CSS. It is designed 
 - LocalStorage (cart persistence)
 
 # ⚙️ Installation
-# Clone the repo
+
+# Clone the Repo
 git clone https://github.com/HirenSiyodia/01-Vite-Developer.git
 
 # Navigate into it
 cd 01-Vite-Developer
-
-# Install dependencies
-npm install
-
-# Run it locally
-npm run dev
-
-# Clone the repo
-git clone https://github.com/BennethA/ZippyCart.git
-
-# Navigate into it
-cd ZippyCart
 
 # Install dependencies
 npm install
