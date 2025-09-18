@@ -12,14 +12,14 @@ I have created this website using React, Vite, and Tailwind CSS. It is designed 
 
 # ⚙️ Installation
 
-## Clone the Repo
+### Clone the Repo
 git clone https://github.com/HirenSiyodia/01-Vite-Developer.git
 
-# Navigate into it
+### Navigate into it
 cd 01-Vite-Developer
 
-# Install dependencies
+### Install dependencies
 npm install
 
-# Run it locally
+### Run it locally
 npm run dev
