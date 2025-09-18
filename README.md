@@ -9,3 +9,16 @@ I have created this website using React, Vite, and Tailwind CSS. It is designed 
 - Tailwind CSS (styling)
 - React Router (routing)
 - LocalStorage (cart persistence)
+
+# ⚙️ Installation
+# Clone the repo
+git clone https://github.com/HirenSiyodia/01-Vite-Developer.git
+
+# Navigate into it
+cd 01-Vite-Developer
+
+# Install dependencies
+npm install
+
+# Run it locally
+npm run dev
